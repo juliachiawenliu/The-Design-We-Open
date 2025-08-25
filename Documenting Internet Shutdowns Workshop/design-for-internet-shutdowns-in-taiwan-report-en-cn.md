@@ -46,11 +46,11 @@ Designers and their practices bridge the experiences between tool developers and
 
 Yet the barriers for designers and design practice to be normalized in Internet Freedom OSS technology are great. Design practice often registers as less vital than technological skills. Less budgeted for, less respected, less served by online collaboration platforms yet in design practice is where the interaction between the lived experience of the human meets technology and is humanized. Humanising technology and understanding these high risk, complex human rights defenders experiences is where we find the focus of the design events and hackathons like those hosted at COSCUP.
 
-技術人員在人權、公民科技和隱私安全工具領域的熱忱令人欽佩他們開發並讓這些工具可更加完善，源自於真切而深刻的生活體驗。然而，一般用戶雖然認知到這些工具的必要性，卻常常感到無力：然而，當你與這些工具的普通用戶交談時，你會發現他們對人權同樣熱忱，卻又夾雜著不同程度的無力感。這些用戶雖不精通科技技術，但深知這些工具對保障自身安全、隱私和獨立的重要性。
+技術人員在人權、公民科技和隱私安全工具領域的熱忱令人欽佩，他們開發讓這些工具可更加完善，這些都源自於真切而深刻的生活體驗。然而，一般用戶雖然認知到這些工具的必要性，卻常常感到無所適從：然而，當你與這些工具的一般使用者交談時，你會發現他們對人權同樣熱忱，卻又夾雜著不同程度的無力感。這些用戶雖不精通科技技術，但深知這些工具對保障自身安全、隱私和獨立的重要性。
 
 - 「為何隱私設置不能更直觀？」
-- 「向學員解釋為何安全需要時常切換VPN，這很困難」
-- 「雖然我在寫稿中使用較具安全性的工具，但日常還是會用一般大品牌的通訊軟體，因為它們更方便，家人也不願改用安全工具。」
+- 「向學員解釋為了安全需要時常切換VPN，這很困難」
+- 「雖然我在寫稿中使用較具安全性的工具，但日常還是會用一般大品牌的通訊軟體，因為它們更方便，家人也不願改用安全的工具。」
 
 這些問題被技術人員視為嚴重的易用性bug。而設計師的專業正能彌補這一問題，讓重要的人權和公民科技工具更易於使用和普及。設計師致力於兼顧專業技術用戶和新手的需求。
 設計師搭建了開發者和用戶間的橋樑。擁有較高的安全性不應以完全理解內部運作的技術為前提。設計師和技術專家合作，引導用戶在具安全隱私保護性下地與科技互動。他們將技術需求人性化，使之適應全世界各種日常場景。設計師的核心理念是包容性和普遍性，他們渴望通過設計實踐造福社會。
